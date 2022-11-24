@@ -15,3 +15,5 @@ We initial start with an entity relationship diagram to map and connect every re
 - There's total of 1549 qualifying retiring employees for the mentorship program
 - A lot of the higher up roles will need a lot of mentorship due to the lack of qualifying retiring employees
 
+## Summary
+With a total of 90,398 retiring titles, in turn are roles that need to be filled for the upcoming "silver tsunami". There's total of 1549 qualifying retiring employees for the mentorship program. Which in return with qualifying retiring employees they will need to be spread thin in order have mentorship over the new/promoted employees 
